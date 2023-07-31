@@ -13,3 +13,6 @@
 [submodule "yocto-test_meta-custom-distro"]
 	path = yocto-test_meta-custom-distro
 	url = git@github.com:selengalp/yocto-test_meta-custom-distro.git
+[submodule "yocto-test_meta-custom-bsp"]
+	path = yocto-test_meta-custom-bsp
+	url = git@github.com:selengalp/yocto-test_meta-custom-bsp.git
