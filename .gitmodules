@@ -1,0 +1,15 @@
+[submodule "poky"]
+	path = poky
+	url = git://git.yoctoproject.org/poky
+[submodule "meta-raspberrypi"]
+	path = meta-raspberrypi
+	url = https://git.yoctoproject.org/meta-raspberrypi/
+[submodule "meta-openembedded"]
+	path = meta-openembedded
+	url = https://github.com/openembedded/meta-openembedded.git
+[submodule "yocto-test_meta-custom-layer"]
+	path = yocto-test_meta-custom-layer
+	url = git@github.com:selengalp/yocto-test_meta-custom-layer.git
+[submodule "yocto-test_meta-custom-distro"]
+	path = yocto-test_meta-custom-distro
+	url = git@github.com:selengalp/yocto-test_meta-custom-distro.git
