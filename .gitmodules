@@ -10,12 +10,6 @@
 [submodule "yocto-test_meta-custom-layer"]
 	path = yocto-test_meta-custom-layer
 	url = https://github.com/selengalp/yocto-test_meta-custom-layer.git
-[submodule "yocto-test_meta-custom-bsp"]
-	path = yocto-test_meta-custom-bsp
-	url = https://github.com/selengalp/yocto-test_meta-custom-bsp.git
-[submodule "yocto-test_meta-custom-distro"]
-	path = yocto-test_meta-custom-distro
-	url = https://github.com/selengalp/yocto-test_meta-custom-distro.git
 [submodule "meta-virtualization"]
 	path = meta-virtualization
 	url = https://github.com/lgirdk/meta-virtualization.git
