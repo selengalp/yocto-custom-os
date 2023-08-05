@@ -7,9 +7,9 @@
 [submodule "meta-openembedded"]
 	path = meta-openembedded
 	url = https://github.com/openembedded/meta-openembedded.git
-[submodule "yocto-test_meta-custom-layer"]
-	path = yocto-test_meta-custom-layer
-	url = https://github.com/selengalp/yocto-test_meta-custom-layer.git
+[submodule "meta-selengalp"]
+	path = meta-selengalp
+	url = https://github.com/selengalp/meta-selengalp.git
 [submodule "meta-virtualization"]
 	path = meta-virtualization
 	url = https://github.com/lgirdk/meta-virtualization.git
