@@ -16,3 +16,6 @@
 [submodule "yocto-test_meta-custom-distro"]
 	path = yocto-test_meta-custom-distro
 	url = https://github.com/selengalp/yocto-test_meta-custom-distro.git
+[submodule "meta-virtualization"]
+	path = meta-virtualization
+	url = https://github.com/lgirdk/meta-virtualization.git
